@@ -32,12 +32,12 @@
                <Font size="36.0" />
             </font>
          </Button>
-         <Button fx:id="btnPlusMinus" mnemonicParsing="false" onAction="#onBtnPlusMinusClick" prefHeight="126.0" prefWidth="132.0" text="+" underline="true">
+         <Button fx:id="btnPlusMinus" mnemonicParsing="false" onAction="#onBtnPlusMinusClick" prefHeight="126.0" prefWidth="132.0" text="±">
             <HBox.margin>
                <Insets bottom="20.0" left="10.0" />
             </HBox.margin>
             <padding>
-               <Insets bottom="20.0" left="20.0" right="20.0" top="5.0" />
+               <Insets bottom="20.0" left="20.0" right="20.0" top="15.0" />
             </padding>
             <font>
                <Font size="36.0" />
