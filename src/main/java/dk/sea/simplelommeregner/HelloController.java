@@ -11,10 +11,12 @@ public class HelloController {
     public TextField txtResult;
     @FXML
     public Button btnClear;
+
     @FXML
     public Button btnPlusMinus;
     @FXML
     public Button btnPercentage;
+
     @FXML
     public Button btnDivide;
     @FXML
@@ -48,5 +50,62 @@ public class HelloController {
     public Button btnEight;
     @FXML
     public Button btnNine;
+
+    public void onBtnClearClick(ActionEvent actionEvent) {
+    }
+
+    public void onBtnPlusMinusClick(ActionEvent actionEvent) {
+    }
+
+    public void onBtnPercantagClick(ActionEvent actionEvent) {
+    }
+
+    public void onBtnDivideClick(ActionEvent actionEvent) {
+    }
+
+    public void onBtnMultiplyClick(ActionEvent actionEvent) {
+    }
+    public void onBtnMinusClick(ActionEvent actionEvent) {
+    }
+
+    public void onBtnPlusClick(ActionEvent actionEvent) {
+    }
+
+    public void onBtnCommaClick(ActionEvent actionEvent) {
+    }
+
+    public void onBtnEqualClick(ActionEvent actionEvent) {
+    }
+
+    public void onBtnZeroClick(ActionEvent actionEvent) {
+    }
+
+    public void onBtnOneClick(ActionEvent actionEvent) {
+    }
+
+    public void onBtnTwoClick(ActionEvent actionEvent) {
+    }
+
+    public void onBtnThreeClick(ActionEvent actionEvent) {
+    }
+
+    public void onBtnFourClick(ActionEvent actionEvent) {
+    }
+
+    public void onBtnFiveClick(ActionEvent actionEvent) {
+    }
+
+    public void onBtnSixClick(ActionEvent actionEvent) {
+    }
+
+    public void onBtnSevenClick(ActionEvent actionEvent) {
+    }
+
+    public void onBtnEightClick(ActionEvent actionEvent) {
+    }
+
+    public void onBtnNineClick(ActionEvent actionEvent) {
+    }
+
 }
 
