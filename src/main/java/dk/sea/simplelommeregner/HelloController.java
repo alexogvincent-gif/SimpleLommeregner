@@ -14,7 +14,7 @@ public class HelloController {
     @FXML
     public Button btnPlusMinus;
     @FXML
-    public Button btnPercentag;
+    public Button btnPercentage;
     @FXML
     public Button btnDivide;
     @FXML

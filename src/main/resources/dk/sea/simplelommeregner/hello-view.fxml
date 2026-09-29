@@ -43,7 +43,7 @@
                <Font size="36.0" />
             </font>
          </Button>
-         <Button fx:id="btnPercentag" mnemonicParsing="false" onAction="#onBtnPercantagClick" prefHeight="126.0" prefWidth="132.0" text="\%">
+         <Button fx:id="btnPercentage" mnemonicParsing="false" onAction="#onBtnPercantagClick" prefHeight="126.0" prefWidth="132.0" text="\%">
             <HBox.margin>
                <Insets bottom="20.0" left="10.0" />
             </HBox.margin>
